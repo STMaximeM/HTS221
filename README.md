@@ -63,7 +63,7 @@ Verify and flash the code on your Photon. Code output is shown in logs at dashbo
 https://dashboard.particle.io/user/logs
 
 
-##C
+## C
 
 Download (or git pull) the code in Beaglebone Black.
 
