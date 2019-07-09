@@ -96,4 +96,4 @@ Download (or git pull) the code in Onion Omega. Run the program.
 $> python HTS221.py
 ```
 
-#####The code output is the relative humidity in %RH and temperature reading in degree celsius and fahrenheit.
+##### The code output is the relative humidity in %RH and temperature reading in degree celsius and fahrenheit.
